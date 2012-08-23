@@ -16,7 +16,7 @@ Frndzk Mobile Theme Switcher and Theme Pack plugin automatically detects mobile 
 
 == Installation ==
 
-1. Upload 'frndzk-mobile-theme-switcher-with-theme-pack.zip' to the '/wp-content/plugins/' directory and extract the zip file
+1. Upload 'frndzk-easy-mobile-theme-switcher-with-theme-pack.zip' to the '/wp-content/plugins/' directory and extract the zip file
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently asked questions ==
