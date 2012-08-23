@@ -12,11 +12,11 @@ Frndzk Mobile Theme Switcher and Theme Pack plugin automatically detects mobile 
 
 == Description ==
 
-Frndzk Mobile Theme Switcher and Theme Pack plugin automatically detects mobile device and shows mobile copatiable theme. It also detects desktop browser and shows main theme. No setup or configuration needed. Even you dont have to search for mobile themes. Frndzk mobile Theme Switcher comes with most lightweight mobile theme pack. Just install and your website will be mobilized [demo](http://bitto.us/wp/) plugin developed by [bitto kazi](http://bitto.us)
+Frndzk Mobile Theme Switcher and Theme Pack plugin automatically detects mobile device and shows mobile copatiable theme. It also detects desktop browser and shows main theme. No setup or configuration needed. Even you dont have to search for mobile themes. Frndzk mobile Theme Switcher comes with most lightweight mobile theme pack. Just install and your website will be mobilized. [demo](http://bitto.us/wp/) plugin developed by [bitto kazi](http://bitto.us)
 
 == Installation ==
 
-1. Upload 'frndzk-mobile-theme-switcher-with-theme-pack.zip' to the '/wp-content/plugins/' directory and extract the zip file
+1. Upload 'frndzk-easy-mobile-theme-switcher-with-theme-pack.zip' to the '/wp-content/plugins/' directory and extract the zip file
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently asked questions ==
