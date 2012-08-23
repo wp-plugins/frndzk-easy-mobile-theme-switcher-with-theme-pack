@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Frndzk Mobile Theme Switcher and Theme Pack plugin automatically detects mobile device and shows mobile copatiable theme. It 
+Frndzk Mobile Theme Switcher and Theme Pack plugin automatically detects mobile device and shows mobile copatiable theme. 
 
 == Description ==
 
