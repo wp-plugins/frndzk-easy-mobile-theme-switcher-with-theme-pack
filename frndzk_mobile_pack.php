@@ -60,6 +60,7 @@ if($mobile_browser>0){
 echo'<meta name="generator" content="Frndzk Mobile Switcher 1.0" /></head>
 <body>
 ';
+echo'<a href="'; echo home_url(); echo'">Home Page</a>';
 wp_list_pages();
 wp_list_categories();
 echo'<br><br>';
